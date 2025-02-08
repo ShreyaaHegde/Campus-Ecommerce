@@ -41,7 +41,7 @@ This project is a **Campus E-Commerce Platform**, designed to enable students to
 
 
 
-## 🛠 API Endpoints
+##  API Endpoints
 
 | HTTP Method | Endpoint    | Description             |
 | ----------- | ----------- | ----------------------- |
@@ -51,7 +51,7 @@ This project is a **Campus E-Commerce Platform**, designed to enable students to
 | **GET**     | `/buy`      | View available products |
 | **GET**     | `/home`     | User dashboard          |
 
-## 📌 Future Enhancements
+## Future Enhancements
 
 - **Image Upload Feature**: Allow sellers to upload product images.
 - **Search & Filter**: Enable users to search and filter products.
